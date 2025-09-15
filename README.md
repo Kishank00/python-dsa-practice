@@ -1,1 +1,1 @@
-# pythonpractice
+# python-dsa-practice
